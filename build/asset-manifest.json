@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swifties/static/css/main.f5318d12.css",
+    "main.js": "/swifties/static/js/main.e1a93198.js",
+    "static/js/787.d4aba7ab.chunk.js": "/swifties/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/swifties/index.html",
+    "main.f5318d12.css.map": "/swifties/static/css/main.f5318d12.css.map",
+    "main.e1a93198.js.map": "/swifties/static/js/main.e1a93198.js.map",
+    "787.d4aba7ab.chunk.js.map": "/swifties/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5318d12.css",
+    "static/js/main.e1a93198.js"
+  ]
+}
